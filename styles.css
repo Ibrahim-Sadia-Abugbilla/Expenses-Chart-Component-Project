@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(182, 158, 127);
+      background-color: linen;
     font-family: 'Poppins', sans-serif;
     padding-top: 70px;
 }
@@ -83,7 +83,7 @@ padding: 30px;
     border-radius: 7px;
 }
 .g3{
-     background-color:#d027aefb;
+     background-color:lightblue;
     grid-column: 3;
     grid-row:1 / span  7;
     border-radius: 7px; 
